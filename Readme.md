@@ -28,3 +28,4 @@
    
 ## Other JavaFX examples
 * [GitHub: daggerok/javafx-examples](https://github.com/daggerok/javafx-examples)
+* [GitHub: daggerok/javafx-spring-boot-app](https://github.com/daggerok/javafx-spring-boot-app)
