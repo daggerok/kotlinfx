@@ -26,3 +26,5 @@
    нужно добавлять в class-path), либо при разработке использовать дистрибутив JDK, в которой она уже есть. Например, 
    [Liberica JDK](https://libericajdk.ru/pages/downloads/#/java-11-lts) (скачать полную версию, содержащую LibericaFx)
    
+## Other JavaFX examples
+* [GitHub: daggerok/javafx-examples](https://github.com/daggerok/javafx-examples)
